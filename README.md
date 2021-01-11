@@ -1,1 +1,1 @@
-# School_gmail_filters
+# School gmail filters
