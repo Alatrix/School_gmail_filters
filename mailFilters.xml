@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Mail Filters</title>
-	<id>tag:mail.google.com,2008:filters:z0000001608019605592*6608549646367416211,z0000001608020536948*6911213998766499555,z0000001608020889650*8499287893056248512,z0000001608132725292*0241445150018669116,z0000001608133054553*1898027860015414423,z0000001608133253061*3620277108623792821,z0000001608133582048*1396707265329935110,z0000001608559798540*8549297363232238966,z0000001608560615544*3774488578611446150,z0000001608560929063*8333680604103395423,z0000001608561117248*6721280544606021423,z0000001610034442156*3947628396523376564</id>
-	<updated>2021-01-11T22:40:20Z</updated>
+	<id>tag:mail.google.com,2008:filters:z0000001608019605592*6608549646367416211,z0000001608020536948*6911213998766499555,z0000001608020889650*8499287893056248512,z0000001608132725292*0241445150018669116,z0000001608133054553*1898027860015414423,z0000001608133253061*3620277108623792821,z0000001608133582048*1396707265329935110,z0000001608559798540*8549297363232238966,z0000001608560615544*3774488578611446150,z0000001608560929063*8333680604103395423,z0000001608561117248*6721280544606021423,z0000001610034442156*3947628396523376564,z0000001610405950232*1704014906543089705,z0000001610406024183*3210606355981333603</id>
+	<updated>2021-01-11T23:02:47Z</updated>
 	<author>
 		<name>YOUR NAME</name>
-		<email>INSERT MAIL HERE</email>
+		<email>YOUR MAIL</email>
 	</author>
 	<entry>
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608019605592*6608549646367416211</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='from' value='*@liceorosetti.edu.it'/>
 		<apps:property name='doesNotHaveTheWord' value='Ricevimento Visualizza su Google Calendar Quando'/>
@@ -26,7 +26,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608020536948*6911213998766499555</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='from' value='*@liceorosetti.edu.it'/>
 		<apps:property name='to' value='me'/>
@@ -39,7 +39,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608020889650*8499287893056248512</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='from' value='*@classroom.google.com'/>
 		<apps:property name='label' value='Classroom'/>
@@ -50,7 +50,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608132725292*0241445150018669116</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='ha appena restituito'/>
 		<apps:property name='label' value='Classroom/Riconsegnati'/>
@@ -62,7 +62,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608133054553*1898027860015414423</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='invito supplenza'/>
 		<apps:property name='label' value='Varie/Supplenza'/>
@@ -73,7 +73,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608133253061*3620277108623792821</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='invito sostituzione'/>
 		<apps:property name='label' value='Varie/Supplenza'/>
@@ -84,7 +84,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608133582048*1396707265329935110</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='from' value='@classroom.google.com'/>
 		<apps:property name='hasTheWord' value='aggiunto un commento'/>
@@ -96,7 +96,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608559798540*8549297363232238966</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='to' value='me'/>
 		<apps:property name='hasTheWord' value='-{Google LLC} -has:attachment'/>
@@ -109,7 +109,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608560615544*3774488578611446150</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='Google Jamboard: la tua lavagna digitale collaborativa invito a jam'/>
 		<apps:property name='label' value='Varie/Jamboard'/>
@@ -120,7 +120,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608560929063*8333680604103395423</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='variazione orario'/>
 		<apps:property name='doesNotHaveTheWord' value='invitato'/>
@@ -133,7 +133,7 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001608561117248*6721280544606021423</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='hasTheWord' value='richiesta di accesso sta richiedendo l&apos;accesso a'/>
 		<apps:property name='label' value='Varie/Richiesta di accesso documento'/>
@@ -144,12 +144,36 @@
 		<category term='filter'></category>
 		<title>Mail Filter</title>
 		<id>tag:mail.google.com,2008:filter:z0000001610034442156*3947628396523376564</id>
-		<updated>2021-01-11T22:40:20Z</updated>
+		<updated>2021-01-11T23:02:47Z</updated>
 		<content></content>
 		<apps:property name='from' value='*@liceorosetti.edu.it'/>
 		<apps:property name='hasTheWord' value='label:inbox has:nouserlabels'/>
 		<apps:property name='label' value='Personali'/>
 		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610405950232*1704014906543089705</id>
+		<updated>2021-01-11T23:02:47Z</updated>
+		<content></content>
+		<apps:property name='from' value='me'/>
+		<apps:property name='to' value='me'/>
+		<apps:property name='label' value='Me'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001610406024183*3210606355981333603</id>
+		<updated>2021-01-11T23:02:47Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Grazie per aver compilato'/>
+		<apps:property name='label' value='Varie/Cose compilate'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
