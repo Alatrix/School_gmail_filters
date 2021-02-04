@@ -1,7 +1,6 @@
-# School gmail filters
-For your own school just
-- change "@liceorosetti.edu.it" to your school's istitutional mail domain
-- "YOUR NAME" to your actual name
-- "YOUR MAIL" to your actual mail
-- import the filter from gmail's settings
-- *and now that I think at it, you'll need to translate everything into your language*
+# Filtri scolastici (classroom) gmail
+Per la tua scuola
+- cambia "@liceorosetti.edu.it" con il dominio istituzionale della tua scuola
+- "YOUR NAME" con il tuo nome e cognome (quelli impostati per l'account google)
+- "YOUR MAIL" con la tua mail
+- importa il filtro dalla scheda "Filtri e indirizzi bloccati" delle impostazioni avanzate di gmail
